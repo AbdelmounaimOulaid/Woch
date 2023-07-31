@@ -4440,7 +4440,8 @@ textarea.form-control {
 	.page-banner {
 		padding: 50px 0;
 		height: 200px;
-		margin-top: 120px;
+		/* margin-top: 120px; */
+		margin-top: 89px;
 	}
 	.page-banner h1, .help-title h1 {
 		font-size: 24px;
@@ -4738,7 +4739,7 @@ textarea.form-control {
 		text-align: center;
 	}
 	.header-nav {
-		height: 60px;
+		height: 80px;
 	}
 	.search-box .form-group .form-control {
 		font-size: 14px;
