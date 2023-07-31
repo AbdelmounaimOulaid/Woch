@@ -29,7 +29,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-    <title>Hoch</title>
+    <title>Woche</title>
     <style>
         .Country {
             font-family: Lato, sans-serif;
@@ -950,7 +950,7 @@ display: none; */
 <!--    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>-->
 <!--    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
 <!--    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>-->
-<!--    <title>Hoch</title>-->
+<!--    <title>Woche</title>-->
 <!--    <style>-->
 <!--        .Country {-->
 <!--            font-family: Lato, sans-serif;-->

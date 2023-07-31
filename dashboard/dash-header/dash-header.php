@@ -113,7 +113,7 @@
                                         <div class="media">
                                             <img class="d-flex align-self-center img-radius" style="width: 60px;" src="../assets/img/Logo-Blue.png" alt="Generic placeholder image">
                                             <div class="media-body">
-                                                <h5 class="notification-user">Hoch</h5>
+                                                <h5 class="notification-user">Woche</h5>
                                                 <p class="notification-msg">Welcome to your Intern Dashboard
                                                     </p>
                                                 <span class="notification-time"></span>

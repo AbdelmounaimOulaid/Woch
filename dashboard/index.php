@@ -10,7 +10,7 @@
 <html lang="en">
 
 <head>
-<title>Hoch - Dashboard</title>
+<title>Woche - Dashboard</title>
 <link rel="shortcut icon" type="image/x-icon" href="../assets/img/Logo-Blue.png">
     <?php include('dash-header/dash-header.php') ?>
 

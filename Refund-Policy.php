@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Hoch - Terms and Conditions</title>
+    <title>Woche - Terms and Conditions</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/Logo-Blue.png">
 
@@ -55,8 +55,8 @@
                                 <h2>REFUNDS</h2>
                                 <p>All refunds must be postmarked within (10) days of the purchase date. All refunded items must be in new and unused condition, with all original tags and labels attached.</p>
                                 <p>refund PROCESS</p>
-                                <p>To refund an item, please email customer service at contact@Hochinstitute.com to obtain a refund Merchandise Authorization (RMA) number. After receiving an RMA number, place the item securely in its original packaging and include your proof of purchase, then mail your refund to the following address:</p>
-                                <adress>Hoch Institute<br>
+                                <p>To refund an item, please email customer service at contact@Wocheinstitute.com to obtain a refund Merchandise Authorization (RMA) number. After receiving an RMA number, place the item securely in its original packaging and include your proof of purchase, then mail your refund to the following address:</p>
+                                <adress>Woche Institute<br>
                                     Attn: refunds<br>
                                     RMA #<br>
                                     An der. Spandauer Brucke 8, 10178 Berlin, Germany<br>
