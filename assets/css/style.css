@@ -396,7 +396,7 @@ button.bg-danger:hover {
 	padding: 0 20px;
 	margin-bottom: 0;
 	transition-duration: 0.4s;
-	margin-top: 10px;
+	margin-top: 0px;
 }
 .header-page .header-nav { 
 	background-color: #FFF;
