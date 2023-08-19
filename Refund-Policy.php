@@ -55,19 +55,19 @@
                                 <h2>REFUNDS</h2>
                                 <p>All refunds must be postmarked within (10) days of the purchase date. All refunded items must be in new and unused condition, with all original tags and labels attached.</p>
                                 <p>refund PROCESS</p>
-                                <p>To refund an item, please email customer service at contact@Wocheinstitute.com to obtain a refund Merchandise Authorization (RMA) number. After receiving an RMA number, place the item securely in its original packaging and include your proof of purchase, then mail your refund to the following address:</p>
+                                <p>To refund an item, please email customer service at contact@wocheinstitute.com to obtain a refund Merchandise Authorization (RMA) number. After receiving an RMA number, place the item securely in its original packaging and include your proof of purchase, then mail your refund to the following address:</p>
                                 <adress>Woche Institute<br>
                                     Attn: refunds<br>
                                     RMA #<br>
-                                    An der. Spandauer Brucke 8, 10178 Berlin, Germany<br>
-                                    Germany<br></adress>
+                                    kreuzstrasse 24, 8008 Zürich, Switzerland<br>
+                                    Switzerland<br></adress>
                                 <p>refund shipping charges will be paid or reimbursed by us. </p>
                                 <h2>REFUNDS</h2>
                                 <p>After receiving your refund and inspecting the condition of your item, we will process your refund. Please allow at least (12) business days from the receipt of your item to process your refund. Refunds may take 1-2 billing cycles to appear on your credit card statement, depending on your credit card company. We will notify you by email when your refund has been processed.</p>
                                 <h2>EXCEPTIONS</h2>
                                 <p>For defective or damaged products, please contact us at the contact details below to arrange a refund or exchange.</p>
                                 <h2>QUESTIONS</h2>
-                                <p>If you have any questions concerning our refund policy, please contact us at: <br> contact@hochinstitute.com</p>
+                                <p>If you have any questions concerning our refund policy, please contact us at: <br> contact@wocheinstitute.com</p>
 
                             </div>
                         </div>

@@ -17,9 +17,9 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/Wocheinstitute.academy/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/wocheinstitute.academy/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://www.linkedin.com/company/Wocheinstitute-academy-2019/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BvjFNKORbSuqfgqaYpuHgQg%3D%3D"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/company/wocheinstitute-academy-2019/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_companies%3BvjFNKORbSuqfgqaYpuHgQg%3D%3D"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
                                             <li><a href="https://wa.link/zhtobg"><i class="fa-brands fa-whatsapp"></i></a></li>
 
@@ -54,7 +54,7 @@
                     <div class="kilimanjaro_part m-top-15">
                         <h5>Contact Us</h5>
                         <ul class="kilimanjaro_links">
-                            <li><a href="mailto:contact@Wocheinstitute.us"><i class="far fa-envelope"></i> contact@Wocheinstitute.com</a></li>
+                            <li><a href="mailto:contact@wocheinstitute.us"><i class="far fa-envelope"></i> contact@wocheinstitute.com</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+1 (206) 201-2259</a></li>
                             <li><a href="#"><i class="far fa-clock"></i> Monday - Saturday</a></li>
@@ -122,11 +122,11 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/hoch.institute/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/woche.institute/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://hochinstitute.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/company/woche-institute-2020/"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
-                                            <li><a href="https://wa.me/message/ZMNTQNMUOYW7D1"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                            <li><a href="https://wa.me/message/AXEW2N5MI3QXP1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -218,14 +218,14 @@
 
                                         <li>
 
-                                            <a href="mailto:contact@hochinstitute.com"><i class="far fa-envelope"></i> contact@hochinstitute.com</a>
+                                            <a href="mailto:contact@wocheinstitute.com"><i class="far fa-envelope"></i> contact@wocheinstitute.com</a>
                                         
                                             
                                         </li>
 
                                         <li>
                                             
-                                            <a href="mailto:hiring@hochinstitute.com"><i class="far fa-envelope"></i> hiring@hochinstitute.com</a>
+                                            <a href="mailto:hiring@wocheinstitute.com"><i class="far fa-envelope"></i> hiring@wocheinstitute.com</a>
                                         
                                             
                                         </li>
@@ -233,7 +233,7 @@
                                         <li>
 
 
-                                            <a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+49 (155) 108 13113 </a>
+                                            <a href="#"><i class="fa-sharp fa-solid fa-phone"></i>+41 (784) 6064 34 </a>
 
                                         </li>
 
@@ -271,7 +271,7 @@
 
                                 <div class="footer__copyright text-left">
 
-                                  <p> Copyright© 2020-2023 Woche institute An der. Spandauer Brücke 8, 10178 Berlin, Germany All Rights Reserved.
+                                  <p> Copyright© 2020-2023 Woche Institute kreuzstrasse 24, 8008 Zürich, Switzerland All Rights Reserved.
                                 </div>
 
                             </div>

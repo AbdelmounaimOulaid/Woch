@@ -8,7 +8,7 @@ if (isset($_POST['submit'])) {
     $message = $_POST['message'];
     if (!(empty($name) && empty($email) && empty($subject) && empty($message))) {
         include('include/mail.php');
-        $email_to = "contact@hochinstitute.com";
+        $email_to = "contact@wocheinstitute.com";
         header("Location: contact.php?Status=" . smtpmailer($email_to, $email, $name, $subject, $message));
     }
 }
@@ -143,7 +143,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-map-marker"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p style="color: #fff;"><span>Address:</span> An der. Spandauer Brucke 8, 10178 Berlin, Germany</p>
+                                                <p style="color: #fff;"><span>Address:</span> kreuzstrasse 24, 8008 Zürich, Switzerland </p>
                                             </div>
                                         </div>
                                         <div class="dbox w-100 d-flex align-items-center">
@@ -151,7 +151,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-phone"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p><span>Phone:</span> <a href="tel://1234567920">+49 (155) 108 13113</a></p>
+                                                <p><span>Phone:</span> <a href="tel://1234567920">+41 (784) 6064 34</a></p>
                                             </div>
                                         </div>
                                         <div class="dbox w-100 d-flex align-items-center">
@@ -159,7 +159,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-paper-plane"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p><span>Email:</span> <a href="mailto:info@yoursite.com">contact@hochinstitute.com</a></p>
+                                                <p><span>Email:</span> <a href="mailto:info@yoursite.com">contact@wocheinstitute.com</a></p>
                                             </div>
                                         </div>
                                         <div class="dbox w-100 d-flex align-items-center">
@@ -167,7 +167,7 @@ if (isset($_POST['submit'])) {
                                                 <span class="fa fa-globe"></span>
                                             </div>
                                             <div class="text pl-3">
-                                                <p><span>Website</span> <a href="#">www.hochinstitute.com</a></p>
+                                                <p><span>Website</span> <a href="#">www.wocheinstitute.com</a></p>
                                             </div>
                                         </div>
                                     </div>

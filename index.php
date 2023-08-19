@@ -125,7 +125,7 @@ $resulte = mysqli_query($db, $query);
                     </div>
                     <div class="col-md-5 d-flex align-items-center">
                         <div class="girl-slide-img aos" data-aos="fade-up">
-                            <img src="assets/img/new-object.png" alt="">
+                            <img src="assets/img/website.icon.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -142,12 +142,7 @@ $resulte = mysqli_query($db, $query);
                                 <h3 class="section__title-2" style="color: #000;">Why choose us ?</h3>
                             </div>
                             <div class="main-video">
-                                <script src="https://fast.wistia.com/embed/medias/uoe7bn1wwx.jsonp" async></script>
-                                <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-                                <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-                                    <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-                                        <div class="wistia_embed wistia_async_uoe7bn1wwx videoFoam=true" style="height:100%;position:relative;width:100%">
-                                            <div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/uoe7bn1wwx/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
+                                <script src="https://fast.wistia.com/embed/medias/6xxlyqfj5z.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_6xxlyqfj5z seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/6xxlyqfj5z/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
                                         </div>
                                     </div>
                                 </div>
@@ -254,11 +249,7 @@ $resulte = mysqli_query($db, $query);
                     <div class="team__item text-center mb-40">
                         <div class="team__thumb blueg">
                             <script src="https://fast.wistia.com/embed/medias/hobqr9mhia.jsonp" async></script>
-                            <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-                            <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-                                <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-                                    <div class="wistia_embed wistia_async_hobqr9mhia videoFoam=true" style="height:100%;position:relative;width:100%">
-                                        <div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/hobqr9mhia/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
+                            <script src="https://fast.wistia.com/embed/medias/12a3fgorhc.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_12a3fgorhc seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/12a3fgorhc/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
                                     </div>
                                 </div>
                             </div>
@@ -269,12 +260,7 @@ $resulte = mysqli_query($db, $query);
                 <div class="col-12 col-xxl-4 col-xl-4 col-lg-4">
                     <div class="team__item text-center mb-40">
                         <div class="team__thumb blueg">
-                            <script src="https://fast.wistia.com/embed/medias/ezbcp113zh.jsonp" async></script>
-                            <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-                            <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-                                <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-                                    <div class="wistia_embed wistia_async_ezbcp113zh videoFoam=true" style="height:100%;position:relative;width:100%">
-                                        <div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/ezbcp113zh/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
+                            <script src="https://fast.wistia.com/embed/medias/1ckp47e2o2.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_1ckp47e2o2 seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/1ckp47e2o2/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
                                     </div>
                                 </div>
                             </div>
@@ -285,12 +271,7 @@ $resulte = mysqli_query($db, $query);
                 <div class="col-12 col-xxl-4 col-xl-4 col-lg-4">
                     <div class="team__item text-center mb-40">
                         <div class="team__thumb blueg">
-                            <script src="https://fast.wistia.com/embed/medias/t35j0j3m0l.jsonp" async></script>
-                            <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-                            <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-                                <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-                                    <div class="wistia_embed wistia_async_t35j0j3m0l videoFoam=true" style="height:100%;position:relative;width:100%">
-                                        <div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/t35j0j3m0l/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
+                            <script src="https://fast.wistia.com/embed/medias/y99kfd2r1x.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_y99kfd2r1x seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/y99kfd2r1x/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
                                     </div>
                                 </div>
                             </div>
@@ -301,12 +282,7 @@ $resulte = mysqli_query($db, $query);
                 <div class="col-12 col-xxl-4 col-xl-4 col-lg-4">
                     <div class="team__item text-center mb-40">
                         <div class="team__thumb blueg">
-                            <script src="https://fast.wistia.com/embed/medias/7ge2nohaj1.jsonp" async></script>
-                            <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-                            <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-                                <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-                                    <div class="wistia_embed wistia_async_7ge2nohaj1 videoFoam=true" style="height:100%;position:relative;width:100%">
-                                        <div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/7ge2nohaj1/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
+                            <script src="https://fast.wistia.com/embed/medias/fnbis3cke0.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_fnbis3cke0 seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/fnbis3cke0/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
                                     </div>
                                 </div>
                             </div>
@@ -317,12 +293,7 @@ $resulte = mysqli_query($db, $query);
                 <div class="col-12 col-xxl-4 col-xl-4 col-lg-4">
                     <div class="team__item text-center mb-40">
                         <div class="team__thumb blueg">
-                            <script src="https://fast.wistia.com/embed/medias/658y7be9gz.jsonp" async></script>
-                            <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-                            <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-                                <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-                                    <div class="wistia_embed wistia_async_658y7be9gz videoFoam=true" style="height:100%;position:relative;width:100%">
-                                        <div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/658y7be9gz/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
+                            <script src="https://fast.wistia.com/embed/medias/xsf5i5s4q6.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_xsf5i5s4q6 seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/xsf5i5s4q6/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
                                     </div>
                                 </div>
                             </div>
@@ -333,12 +304,7 @@ $resulte = mysqli_query($db, $query);
                 <div class="col-12 col-xxl-4 col-xl-4 col-lg-4">
                     <div class="team__item text-center mb-40">
                         <div class="team__thumb blueg">
-                            <script src="https://fast.wistia.com/embed/medias/pm6mz3phx8.jsonp" async></script>
-                            <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
-                            <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
-                                <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-                                    <div class="wistia_embed wistia_async_pm6mz3phx8 videoFoam=true" style="height:100%;position:relative;width:100%">
-                                        <div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/pm6mz3phx8/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
+                            <script src="https://fast.wistia.com/embed/medias/v0aaym93lw.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_v0aaym93lw seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/v0aaym93lw/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div>
                                     </div>
                                 </div>
                             </div>

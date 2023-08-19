@@ -111,7 +111,7 @@ text-align: center;
           <i class="checkmark">✓</i>
         </div>
         <p style="color: #000;font-size:30px">We received your application successfully</p>
-        <p class="Text">In order to move forward with your application, make sure to contact and provide your application ID <strong> (#H78553CHC) </strong> to the hiring team at <strong> hiring@hochinstitute.com </strong> to confirm your application and schedule a meeting with the HR recruiter.
+        <p class="Text">In order to move forward with your application, make sure to contact and provide your application ID <strong> (#W78553CHC) </strong> to the hiring team at <strong> hiring@wocheinstitute.com </strong> to confirm your application and schedule a meeting with the HR recruiter.
 
           <br><br>Furthermore, make sure to stay active in your email inbox since you will receive an email from the administration team containing the time of your interview once your application has been approved.
         </p>
