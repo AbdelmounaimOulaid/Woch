@@ -785,11 +785,12 @@ display: none; */
                     e.preventDefault();
                     
                     if (validateForm()) {
-                        if ($('#country').val() == 'Pakistan') {
+                        if ($('#country').val() == 'Pakistan' &&  $('#country').val() == 'India' && $('#country').val() == 'Iran' && $('#country').val() == 'Nigeria ' && $('#country').val() == 'Egypt ' && $('#country').val() == 'Poland' && $('#country').val() == 'Ghana' ) {
 
                             Succes();
                             $(location).attr('href', '../Success/Index.php');
                                 }else{
+                        
     
                         $('#btnSubmit').val('Submit...');
                         fetch(form.action, {
