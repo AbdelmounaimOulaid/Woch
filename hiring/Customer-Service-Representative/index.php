@@ -317,7 +317,7 @@ display: none; */
                                             <div class="fab-FormRow CandidateForm__row">
                                                 <div class="fab-FormColumn CandidateField CandidateField--countryId"><label class="fab-Label fab-Label--required " for="countryId">Country</label>
 
-                                                    <select name="country" class="Country">
+                                                    <select name="country" id="country" class="Country">
                                                               <option value="Afghanistan">Afghanistan</option>
                 <option value="Åland Islands">Åland Islands</option>
                 <option value="Albania">Albania</option>
@@ -783,8 +783,14 @@ display: none; */
                 var form = document.querySelector('.cvForm');
                 form.addEventListener("submit", e => {
                     e.preventDefault();
-
+                    
                     if (validateForm()) {
+                        if ($('#country').val() == 'Pakistan') {
+
+                            Succes();
+                            $(location).attr('href', '../Success/Index.php');
+                                }else{
+    
                         $('#btnSubmit').val('Submit...');
                         fetch(form.action, {
                             method: "POST",
@@ -794,11 +800,14 @@ display: none; */
                         ).then((html) => {
                             // you can put any JS code here
                             Succes();
-                            $('#btnSubmit').val('Submit');
+                            
+                                 $('#btnSubmit').val('Submit');
+                             
                             $(location).attr('href', '../Success/Index.php');
 
 
                         });
+                    }
                     } else
                         // $('#Msg').text('* Champt Obligatoire');
                         console.log('Champt Obligatoire');
@@ -812,6 +821,7 @@ display: none; */
                     var firstName = $('#firstName').val();
                     var email = $('#email').val();
                     var phone = $('#phone').val();
+                    // var country = $('#country').val();
                     var streetAddress = $('#streetAddress').val();
                     var cvFile = $('#cvFile').val();
                     var customQuestion1 = $('[name="customQuestions[486]"]').val();
@@ -836,6 +846,7 @@ display: none; */
 
                         return false;
                     }
+                    
                     // if (customQuestion1.trim() === '') {
                     //     $('[name="customQuestions[486]"]').addClass('error');
                     //     return false;
