@@ -122,11 +122,11 @@
                                         <ul>
 
 
-                                            <li><a href="https://www.instagram.com/hoch.institute/"><i class="fa-brands fa-instagram"></i></a></li>
+                                            <li><a href="https://www.instagram.com/woche.institute/"><i class="fa-brands fa-instagram"></i></a></li>
 
-                                            <li><a href="https://www.linkedin.com/company/hoch-institute-2020/about/"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://wocheinstitute.com/404"><i class="fa-brands fa-linkedin-in"></i></a></li>
 
-                                            <li><a href="https://wa.me/message/ZMNTQNMUOYW7D1"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                            <li><a href="https://wa.me/message/AXEW2N5MI3QXP1"><i class="fa-brands fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -218,14 +218,14 @@
 
                                         <li>
 
-                                            <a href="mailto:contact@Wocheinstitute.com"><i class="far fa-envelope"></i> contact@hochinstitute.com</a>
+                                            <a href="mailto:contact@Wocheinstitute.com"><i class="far fa-envelope"></i> contact@wocheinstitute.com</a>
                                         
                                             
                                         </li>
 
                                         <li>
                                             
-                                            <a href="mailto:hiring@Wocheinstitute.com"><i class="far fa-envelope"></i> hiring@hochinstitute.com</a>
+                                            <a href="mailto:hiring@Wocheinstitute.com"><i class="far fa-envelope"></i> hiring@wocheinstitute.com</a>
                                         
                                             
                                         </li>

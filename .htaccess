@@ -6,5 +6,5 @@ RewriteCond %{HTTP_HOST} ^wocheinstitute\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.wocheinstitute\.com$
 RewriteRule ^(.*)$ "https\:\/\/wocheinstitute\.com\/$1" [R=301,L]
 
-# ErrorDocument 404 /404.shtml
+ErrorDocument 404 /404.shtml
 
